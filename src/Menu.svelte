@@ -65,13 +65,15 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		letter-spacing: 5px;
 	}
 	input {
 		width: 100%;
 		background-color: #bdbdbd;
 		height: 100%;
 		border: 1px solid black;
-		font-size: 30px;
+		border-bottom-width: thin;
+		font-size: 20px;
 		text-align: center;
 	}
 </style>
