@@ -44,6 +44,8 @@
 		align-items: center;
 		text-align: center;
 		align-content: center;
+		font-weight:10px;
+		
 	}
 	ol {
 		-moz-column-count: 4;
