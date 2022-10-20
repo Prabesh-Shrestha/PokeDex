@@ -19,5 +19,8 @@
 		font-size: 2em;
 		font-weight: bold;
 		text-align: center;
+		font-family: 'Signika', sans-serif;
+		text-decoration-line: underline;
+                text-decoration-style: solid;
 	}
 </style>
